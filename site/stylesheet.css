@@ -1,0 +1,14 @@
+h1
+{
+    color: red;
+    background-color: black;
+    text-align: left;
+}
+.Menu
+{
+    border-color: black;
+    text-align: right;
+    padding: 2em;
+    margin: 20px;
+    color: white;
+}
